@@ -1,0 +1,7 @@
+body {
+    background:url("../images/cod.jpeg") no-repeat fixed;
+    background-size: cover;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+}
